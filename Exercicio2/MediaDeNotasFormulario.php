@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
     <head>
         <meta charset="utf-8">
-        <title>Área do triângulo</title>
+        <title>Calculo De Menções</title>
     </head>
     <body> 
         <form  method="post" action="ExibicaoMediaDeNotas.php">
